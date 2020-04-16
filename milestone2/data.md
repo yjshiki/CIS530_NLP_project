@@ -34,13 +34,13 @@ It contains the following 6 fields:
 
 # After preprocessing, examples of data
 
-label,date,text
-0,Fri Jun 19 09:34:11 PDT 2009,World hunger hits one billion people. So Sad URL
-0,Sun Jun 07 11:36:40 PDT 2009,AT_USER I can't watch it until next week cos i live in England But i'm still excited for next week haha
-1,Thu May 14 02:07:04 PDT 2009,just woke up 
-1,Sat May 30 07:08:52 PDT 2009,"In the garden with soph, fi, craig, and sarah in the sun with wine! So nice to be outside "
-1,Wed Jun 03 02:23:00 PDT 2009,AT_USER can't wait to see your new hairstyle!!! 
-0,Mon May 04 00:44:39 PDT 2009,"AT_USER I miss you, Mr. Superhero. Come back to Texas, and this time actually talk to me instead of hiding on the bus the whole time "
+label,date,text <br />
+0,Fri Jun 19 09:34:11 PDT 2009,World hunger hits one billion people. So Sad URL <br />
+0,Sun Jun 07 11:36:40 PDT 2009,AT_USER I can't watch it until next week cos i live in England But i'm still excited for next week haha <br />
+1,Thu May 14 02:07:04 PDT 2009,just woke up <br />
+1,Sat May 30 07:08:52 PDT 2009,"In the garden with soph, fi, craig, and sarah in the sun with wine! So nice to be outside " <br />
+1,Wed Jun 03 02:23:00 PDT 2009,AT_USER can't wait to see your new hairstyle!!! <br />
+0,Mon May 04 00:44:39 PDT 2009,"AT_USER I miss you, Mr. Superhero. Come back to Texas, and this time actually talk to me instead of hiding on the bus the whole time " <br />
 
 
 # Number of items in training/dev/test splits
