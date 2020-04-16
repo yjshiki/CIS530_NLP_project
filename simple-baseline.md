@@ -3,7 +3,9 @@
 The first is ramdom_baseline. For each text, randomly lable as -1=negative,0=neutral,1=positive.
 
 ### Sample Output
-
+'''python
+print(train_pred[0:10])
+'''
 ### Test Result
 The test result using evaluation metric is
 
@@ -16,7 +18,9 @@ The test result using evaluation metric is
 ### Description
 The second one is named as model. Spilt each text into single words, count the number of positive words and negative words. If the number of positive words is larger, label as 1=positive, if the number of negative words is larger, label as -1=negative, if equal, label as 0=neutral. 
 ### Sample Output
-
+'''python
+print(train_pred[0:10])
+'''
 ### Test Result
 The test result using evaluation metric is
 |            |positive    |negative    |neutral     |macroavg 
