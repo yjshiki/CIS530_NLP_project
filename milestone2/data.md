@@ -34,7 +34,7 @@ It contains the following 6 fields:
 
 # After preprocessing, examples of data
 
-label,date,text <br />
+Format: label,date,text <br />
 0,Fri Jun 19 09:34:11 PDT 2009,World hunger hits one billion people. So Sad URL <br />
 0,Sun Jun 07 11:36:40 PDT 2009,AT_USER I can't watch it until next week cos i live in England But i'm still excited for next week haha <br />
 1,Thu May 14 02:07:04 PDT 2009,just woke up <br />
