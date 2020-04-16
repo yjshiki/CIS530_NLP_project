@@ -4,8 +4,9 @@ The first is ramdom_baseline. For each text, randomly lable as -1=negative,0=neu
 
 ### Sample Output
 ```python
-print(train_pred[0:10])
+print(train_rand_pred[0:10])
 ```
+[0, 0, 0, 1, -1, -1, 1, 0, 0, 0]
 
 ### Test Result
 The test result using evaluation metric is
@@ -22,6 +23,7 @@ The second one is named as model. Spilt each text into single words, count the n
 ```python
 print(train_pred[0:10])
 ```
+[1, -1, -1, 0, -1, -1, 0, 0, -1, 0]
 ### Test Result
 The test result using evaluation metric is
 |            |positive    |negative    |neutral     |macroavg 
