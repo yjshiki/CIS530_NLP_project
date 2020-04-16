@@ -9,7 +9,7 @@ print(train_rand_pred[0:10])
 [0, 0, 0, 1, -1, -1, 1, 0, 0, 0]
 
 ### Test Result
-The test result using evaluation metric is
+Precision, recall,f1-score were used for evaluation. The test result using evaluation metric is
 
 |            |positive    |negative    |neutral     |macroavg 
 |:-----------:|-----------------|:------------:|:-----:|:-------:|
@@ -25,7 +25,7 @@ print(train_pred[0:10])
 ```
 [1, -1, -1, 0, -1, -1, 0, 0, -1, 0]
 ### Test Result
-The test result using evaluation metric is
+Precision, recall,f1-score were used for evaluation. The test result using evaluation metric is
 |            |positive    |negative    |neutral     |macroavg 
 |:-----------:|-----------------|:------------:|:-----:|:-------:|
 |precision   |0.7856927199305582|0.7174790437752251|0.7028251615758082|0.7353323084271972
