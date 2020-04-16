@@ -4,7 +4,7 @@ The first is ramdom_baseline. For each text, randomly lable as -1=negative,0=neu
 
 ### Sample Output
 ```python
-print(train_rand_pred[0:10])
+print(train_rand_pred[0:10]) # Here only print first 10 values to show output format
 ```
 [0, 0, 0, 1, -1, -1, 1, 0, 0, 0]
 
@@ -21,7 +21,7 @@ Precision, recall,f1-score were used for evaluation. The test result using evalu
 The second one is named as model. Spilt each text into single words, count the number of positive words and negative words. If the number of positive words is larger, label as 1=positive, if the number of negative words is larger, label as -1=negative, if equal, label as 0=neutral. 
 ### Sample Output
 ```python
-print(train_pred[0:10])
+print(train_pred[0:10]) # Here only print first 10 values to show output format
 ```
 [1, -1, -1, 0, -1, -1, 0, 0, -1, 0]
 ### Test Result
