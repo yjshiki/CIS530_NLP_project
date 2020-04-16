@@ -22,14 +22,14 @@ It contains the following 6 fields:
 
 # Examples of data
 
-"0","1467811193","Mon Apr 06 22:19:57 PDT 2009","NO_QUERY","Karoli","@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. "
-"0","1467811372","Mon Apr 06 22:20:00 PDT 2009","NO_QUERY","joy_wolf","@Kwesidei not the whole crew "
-"0","1467811795","Mon Apr 06 22:20:05 PDT 2009","NO_QUERY","2Hood4Hollywood","@Tatiana_K nope they didn't have it "
-"0","1467812025","Mon Apr 06 22:20:09 PDT 2009","NO_QUERY","mimismo","@twittera que me muera ? "
-"0","1467812416","Mon Apr 06 22:20:16 PDT 2009","NO_QUERY","erinx3leannexo","spring break in plain city... it's snowing "
-"4","2054062289","Sat Jun 06 06:27:36 PDT 2009","NO_QUERY","LiVonLy4tHeLoRd","celebrate ffx with Kelli today!!!!!! YEA! "
-"4","2054062297","Sat Jun 06 06:27:36 PDT 2009","NO_QUERY","Sarah_Jeffreys","Boat broken  luckily surrounded by fit men in leathers! "
-"4","2054062396","Sat Jun 06 06:27:37 PDT 2009","NO_QUERY","nwwells","@friendsofED Thanks, I see it "
+"0","1467811193","Mon Apr 06 22:19:57 PDT 2009","NO_QUERY","Karoli","@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. "<br />
+"0","1467811372","Mon Apr 06 22:20:00 PDT 2009","NO_QUERY","joy_wolf","@Kwesidei not the whole crew "<br />
+"0","1467811795","Mon Apr 06 22:20:05 PDT 2009","NO_QUERY","2Hood4Hollywood","@Tatiana_K nope they didn't have it "<br />
+"0","1467812025","Mon Apr 06 22:20:09 PDT 2009","NO_QUERY","mimismo","@twittera que me muera ? "<br />
+"0","1467812416","Mon Apr 06 22:20:16 PDT 2009","NO_QUERY","erinx3leannexo","spring break in plain city... it's snowing "<br />
+"4","2054062289","Sat Jun 06 06:27:36 PDT 2009","NO_QUERY","LiVonLy4tHeLoRd","celebrate ffx with Kelli today!!!!!! YEA! "<br />
+"4","2054062297","Sat Jun 06 06:27:36 PDT 2009","NO_QUERY","Sarah_Jeffreys","Boat broken  luckily surrounded by fit men in leathers! "<br />
+"4","2054062396","Sat Jun 06 06:27:37 PDT 2009","NO_QUERY","nwwells","@friendsofED Thanks, I see it "<br />
 "4","2054062422","Sat Jun 06 06:27:37 PDT 2009","NO_QUERY","NickiGraves","I'm up, I'm up, and buying tickets in 44 minutes.  Wish me luck "
 
 # After preprocessing, examples of data
