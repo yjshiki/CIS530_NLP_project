@@ -2,8 +2,10 @@
 ### Description
 The first is ramdom_baseline. For each text, randomly lable as -1=negative,0=neutral,1=positive.
 
+### Sample Output
 
-### The test result using evaluation metric is
+### Test Result
+The test result using evaluation metric is
 
 |            |positive    |negative    |neutral     |macroavg 
 |:-----------:|-----------------|:------------:|:-----:|:-------:|
@@ -13,7 +15,10 @@ The first is ramdom_baseline. For each text, randomly lable as -1=negative,0=neu
 # Baseline 2
 ### Description
 The second one is named as model. Spilt each text into single words, count the number of positive words and negative words. If the number of positive words is larger, label as 1=positive, if the number of negative words is larger, label as -1=negative, if equal, label as 0=neutral. 
-### The test result using evaluation metric is
+### Sample Output
+
+### Test Result
+The test result using evaluation metric is
 |            |positive    |negative    |neutral     |macroavg 
 |:-----------:|-----------------|:------------:|:-----:|:-------:|
 |precision   |0.7856927199305582|0.7174790437752251|0.7028251615758082|0.7353323084271972
