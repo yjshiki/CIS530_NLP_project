@@ -1,5 +1,4 @@
-Two babselines were developed.
-
+#Baseline 1
 The first is ramdom_baseline. For each text, randomly lable as -1=negative,0=neutral,1=positive.
 The test result using evaluation metric is
 
@@ -8,7 +7,7 @@ The test result using evaluation metric is
 |precision   |0.3136412870340873|0.15163425209828335|0.5339445341607009|0.33307335776435715
 |recall      |0.3321861419278214|0.33337979094076653|0.33320108234211215|0.33292233840356666
 |f1 score          |0.32264745787152044|0.20845497564248927|0.41033684148808297|0.31381309166736426
-
+#Baseline 2
 The second one is named as model. Spilt each text into single words, count the number of positive words and negative words. If the number of positive words is larger, label as 1=positive, if the number of negative words is larger, label as -1=negative, if equal, label as 0=neutral. 
 The test result using evaluation metric is
 |            |positive    |negative    |neutral     |macroavg 
