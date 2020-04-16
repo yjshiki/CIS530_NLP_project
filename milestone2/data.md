@@ -41,6 +41,6 @@ The original merged dataset contains the following 5 fields:
 
 # Number of items in training/dev/test splits
 
-TRAIN size: 1200000
-VAL size: 80000
-TEST size: 320000
+Training size: 1200000 <br />
+Validation size: 80000 <br />
+Test size: 320000 <br />
