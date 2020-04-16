@@ -1,6 +1,6 @@
 Two babselines were developed.
 
-The first is ramdom_baseline. For each text, randomly lable as -1=negative,0=neutral,1=positive
+The first is ramdom_baseline. For each text, randomly lable as -1=negative,0=neutral,1=positive.
 The test result using evaluation metric is
 
 |            |positive    |negative    |neutral     |macroavg 
