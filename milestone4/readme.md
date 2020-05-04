@@ -9,6 +9,11 @@ Here's the code that needs to be changed.
 train_iterator, val_iterator, test_iterator, covid19_iterator = load_data('./gdrive/Shared drives/cis530_final_project/MS4/data/train.csv', './gdrive/Shared drives/cis530_final_project/MS4/data/val.csv', 
                                                           './gdrive/Shared drives/cis530_final_project/MS4/data/test.csv','./gdrive/Shared drives/cis530_final_project/MS4/data/covid19.csv')
 ```
+It should be change to 
+```python
+train_iterator, val_iterator, test_iterator, covid19_iterator = load_data('your_path/train.csv', 'your_path/val.csv', 
+                                                          'your_path/test.csv','your_path/covid19.csv')
+```
 
 
 Extension3 was to mannually annotate Covid19 tweets and apply the dataset as test to different models. 
