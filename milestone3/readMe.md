@@ -6,6 +6,7 @@ Run each module sequentially on colab file to download and install relevant file
 
 Performance on train and val set:
 |data | accuracy% |  precision% | recall% | f1%
+|:---:|:---:|:---:|:---:|:---:|
 |train| 92.23 	 |  88.55	   | 87.74	 | 88.12  
 |val  | 93.96	 |	93.04	   | 89.45	 | 91.04
 |test | 93.92	 |  93.72		|90.60   | 92.00 
